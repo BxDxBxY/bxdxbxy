@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate Full-stack developer from Uzbekistan</h3>
-<img href="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" width={"100%"} alt="coding" align="right" />
+<img url="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" width={"100%"} alt="coding" align="right" />
 
 - 🌱 I’m currently learning **Nest, Nuxts, TypeScript**
 
