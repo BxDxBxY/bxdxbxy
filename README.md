@@ -1,5 +1,5 @@
 <a href="https://github.com/BxDxBxY" widht="100%" height="400" >
-        <img src="https://i.pinimg.com/originals/54/d7/36/54d736b5b3468beddcffc09b1283edf8.gif" width="100%"  alt="MasterHead" class="full-width-image">
+        <img src="https://i.gifer.com/origin/e6/e6890c141a73274f4aae7404a801e231.gif" width="100%"  alt="MasterHead" class="full-width-image">
 </a>
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate Full-stack developer from Uzbekistan</h3>
