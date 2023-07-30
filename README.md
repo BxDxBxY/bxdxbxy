@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Nest, Nuxts, TypeScript**
 
-- 👨‍💻 All of my projects are available at [jacks-website-portfolio.netlify.app](jacks-website-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jacks-website-portfolio.netlify.app)
 
 - 📫 How to reach me **http://t.me/bxdxbxy**
 
-- 📄 Know about my experiences [jacks-website-portfolio.netlify.app](jacks-website-portfolio.netlify.app)
+- 📄 Know about my experiences [My Portfolio](https://jacks-website-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
